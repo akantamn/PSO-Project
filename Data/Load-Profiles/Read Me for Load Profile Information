@@ -1,0 +1,44 @@
+Read Me for Load Profile Information
+
+Useful Links:
+
+http://www.pge.com/tariffs/energy_use_prices.shtml
+
+https://www.aepohio.com/service/choice/cres/LoadProfiles.aspx
+
+http://www.smeco.coop/energySupplierSupport/loadProfiles.aspx
+
+
+
+Additional:
+http://www.nationalgridus.com/energysupply/nantucket_data_ds.asp
+
+Comprehensive load profiles for all TMY3 locations in the country
+http://en.openei.org/datasets/files/961/pub/
+
+10%
+Total Cost of Operation is 	 $16475583.06
+ Cost per kWh is 	 $0.164008
+ Annual Peak Load is 	 32.18 MW
+ Energy Generated is 	 106.91 Solar 	 136.39 Wind 2162.31 Gas 7640.00 Coal>> 
+
+
+50%
+ Total Cost of Operation is 	 $11151607.01
+ Cost per kWh is 	 $0.111010
+ Annual Peak Load is 	 32.18 MW
+ Energy Generated is 	 534.57 Solar 	 681.93 Wind 1194.85 Gas 7634.26 Coal>
+
+100%
+Total Cost of Operation is 	 $12637935.81
+ Cost per kWh is 	 $0.125806
+ Annual Peak Load is 	 32.18 MW
+ Energy Generated is 	 1069.13 Solar 	 1363.87 Wind 1646.71 Gas 5965.90 Coal>> 
+
+100% Renew Curtail
+Total Cost of Operation is 	 $8657838.28
+ Cost per kWh is 	 $0.086185
+ Annual Peak Load is 	 32.18 MW
+ Energy Generated is 	 801.76 Solar 	 947.40 Wind 750.56 Gas 7545.90 Coal>> 
+
+
